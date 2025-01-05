@@ -1,0 +1,14 @@
+/Users/ahmeterenkaplan/RiderProjects/veriVizeÖncesiTekrar/veriVizeÖncesiTekrar/bin/Debug/net8.0/veriVizeÖncesiTekrar
+/Users/ahmeterenkaplan/RiderProjects/veriVizeÖncesiTekrar/veriVizeÖncesiTekrar/bin/Debug/net8.0/veriVizeÖncesiTekrar.deps.json
+/Users/ahmeterenkaplan/RiderProjects/veriVizeÖncesiTekrar/veriVizeÖncesiTekrar/bin/Debug/net8.0/veriVizeÖncesiTekrar.runtimeconfig.json
+/Users/ahmeterenkaplan/RiderProjects/veriVizeÖncesiTekrar/veriVizeÖncesiTekrar/bin/Debug/net8.0/veriVizeÖncesiTekrar.dll
+/Users/ahmeterenkaplan/RiderProjects/veriVizeÖncesiTekrar/veriVizeÖncesiTekrar/bin/Debug/net8.0/veriVizeÖncesiTekrar.pdb
+/Users/ahmeterenkaplan/RiderProjects/veriVizeÖncesiTekrar/veriVizeÖncesiTekrar/obj/Debug/net8.0/veriVizeÖncesiTekrar.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmeterenkaplan/RiderProjects/veriVizeÖncesiTekrar/veriVizeÖncesiTekrar/obj/Debug/net8.0/veriVizeÖncesiTekrar.AssemblyInfoInputs.cache
+/Users/ahmeterenkaplan/RiderProjects/veriVizeÖncesiTekrar/veriVizeÖncesiTekrar/obj/Debug/net8.0/veriVizeÖncesiTekrar.AssemblyInfo.cs
+/Users/ahmeterenkaplan/RiderProjects/veriVizeÖncesiTekrar/veriVizeÖncesiTekrar/obj/Debug/net8.0/veriVizeÖncesiTekrar.csproj.CoreCompileInputs.cache
+/Users/ahmeterenkaplan/RiderProjects/veriVizeÖncesiTekrar/veriVizeÖncesiTekrar/obj/Debug/net8.0/veriVizeÖncesiTekrar.dll
+/Users/ahmeterenkaplan/RiderProjects/veriVizeÖncesiTekrar/veriVizeÖncesiTekrar/obj/Debug/net8.0/refint/veriVizeÖncesiTekrar.dll
+/Users/ahmeterenkaplan/RiderProjects/veriVizeÖncesiTekrar/veriVizeÖncesiTekrar/obj/Debug/net8.0/veriVizeÖncesiTekrar.pdb
+/Users/ahmeterenkaplan/RiderProjects/veriVizeÖncesiTekrar/veriVizeÖncesiTekrar/obj/Debug/net8.0/veriVizeÖncesiTekrar.genruntimeconfig.cache
+/Users/ahmeterenkaplan/RiderProjects/veriVizeÖncesiTekrar/veriVizeÖncesiTekrar/obj/Debug/net8.0/ref/veriVizeÖncesiTekrar.dll

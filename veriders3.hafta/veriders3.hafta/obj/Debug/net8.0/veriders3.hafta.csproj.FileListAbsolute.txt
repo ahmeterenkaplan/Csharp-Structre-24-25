@@ -1,0 +1,14 @@
+/Users/ahmeterenkaplan/RiderProjects/veriders3.hafta/veriders3.hafta/bin/Debug/net8.0/veriders3.hafta
+/Users/ahmeterenkaplan/RiderProjects/veriders3.hafta/veriders3.hafta/bin/Debug/net8.0/veriders3.hafta.deps.json
+/Users/ahmeterenkaplan/RiderProjects/veriders3.hafta/veriders3.hafta/bin/Debug/net8.0/veriders3.hafta.runtimeconfig.json
+/Users/ahmeterenkaplan/RiderProjects/veriders3.hafta/veriders3.hafta/bin/Debug/net8.0/veriders3.hafta.dll
+/Users/ahmeterenkaplan/RiderProjects/veriders3.hafta/veriders3.hafta/bin/Debug/net8.0/veriders3.hafta.pdb
+/Users/ahmeterenkaplan/RiderProjects/veriders3.hafta/veriders3.hafta/obj/Debug/net8.0/veriders3.hafta.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmeterenkaplan/RiderProjects/veriders3.hafta/veriders3.hafta/obj/Debug/net8.0/veriders3.hafta.AssemblyInfoInputs.cache
+/Users/ahmeterenkaplan/RiderProjects/veriders3.hafta/veriders3.hafta/obj/Debug/net8.0/veriders3.hafta.AssemblyInfo.cs
+/Users/ahmeterenkaplan/RiderProjects/veriders3.hafta/veriders3.hafta/obj/Debug/net8.0/veriders3.hafta.csproj.CoreCompileInputs.cache
+/Users/ahmeterenkaplan/RiderProjects/veriders3.hafta/veriders3.hafta/obj/Debug/net8.0/veriders3.hafta.dll
+/Users/ahmeterenkaplan/RiderProjects/veriders3.hafta/veriders3.hafta/obj/Debug/net8.0/refint/veriders3.hafta.dll
+/Users/ahmeterenkaplan/RiderProjects/veriders3.hafta/veriders3.hafta/obj/Debug/net8.0/veriders3.hafta.pdb
+/Users/ahmeterenkaplan/RiderProjects/veriders3.hafta/veriders3.hafta/obj/Debug/net8.0/veriders3.hafta.genruntimeconfig.cache
+/Users/ahmeterenkaplan/RiderProjects/veriders3.hafta/veriders3.hafta/obj/Debug/net8.0/ref/veriders3.hafta.dll

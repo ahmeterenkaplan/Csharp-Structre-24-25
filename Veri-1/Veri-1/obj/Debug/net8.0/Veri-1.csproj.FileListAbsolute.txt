@@ -1,0 +1,14 @@
+/Users/ahmeterenkaplan/RiderProjects/Veri-1/Veri-1/bin/Debug/net8.0/Veri-1
+/Users/ahmeterenkaplan/RiderProjects/Veri-1/Veri-1/bin/Debug/net8.0/Veri-1.deps.json
+/Users/ahmeterenkaplan/RiderProjects/Veri-1/Veri-1/bin/Debug/net8.0/Veri-1.runtimeconfig.json
+/Users/ahmeterenkaplan/RiderProjects/Veri-1/Veri-1/bin/Debug/net8.0/Veri-1.dll
+/Users/ahmeterenkaplan/RiderProjects/Veri-1/Veri-1/bin/Debug/net8.0/Veri-1.pdb
+/Users/ahmeterenkaplan/RiderProjects/Veri-1/Veri-1/obj/Debug/net8.0/Veri-1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmeterenkaplan/RiderProjects/Veri-1/Veri-1/obj/Debug/net8.0/Veri-1.AssemblyInfoInputs.cache
+/Users/ahmeterenkaplan/RiderProjects/Veri-1/Veri-1/obj/Debug/net8.0/Veri-1.AssemblyInfo.cs
+/Users/ahmeterenkaplan/RiderProjects/Veri-1/Veri-1/obj/Debug/net8.0/Veri-1.csproj.CoreCompileInputs.cache
+/Users/ahmeterenkaplan/RiderProjects/Veri-1/Veri-1/obj/Debug/net8.0/Veri-1.dll
+/Users/ahmeterenkaplan/RiderProjects/Veri-1/Veri-1/obj/Debug/net8.0/refint/Veri-1.dll
+/Users/ahmeterenkaplan/RiderProjects/Veri-1/Veri-1/obj/Debug/net8.0/Veri-1.pdb
+/Users/ahmeterenkaplan/RiderProjects/Veri-1/Veri-1/obj/Debug/net8.0/Veri-1.genruntimeconfig.cache
+/Users/ahmeterenkaplan/RiderProjects/Veri-1/Veri-1/obj/Debug/net8.0/ref/Veri-1.dll

@@ -1,0 +1,14 @@
+/Users/ahmeterenkaplan/RiderProjects/linklists/linklists/bin/Debug/net8.0/linklists
+/Users/ahmeterenkaplan/RiderProjects/linklists/linklists/bin/Debug/net8.0/linklists.deps.json
+/Users/ahmeterenkaplan/RiderProjects/linklists/linklists/bin/Debug/net8.0/linklists.runtimeconfig.json
+/Users/ahmeterenkaplan/RiderProjects/linklists/linklists/bin/Debug/net8.0/linklists.dll
+/Users/ahmeterenkaplan/RiderProjects/linklists/linklists/bin/Debug/net8.0/linklists.pdb
+/Users/ahmeterenkaplan/RiderProjects/linklists/linklists/obj/Debug/net8.0/linklists.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmeterenkaplan/RiderProjects/linklists/linklists/obj/Debug/net8.0/linklists.AssemblyInfoInputs.cache
+/Users/ahmeterenkaplan/RiderProjects/linklists/linklists/obj/Debug/net8.0/linklists.AssemblyInfo.cs
+/Users/ahmeterenkaplan/RiderProjects/linklists/linklists/obj/Debug/net8.0/linklists.csproj.CoreCompileInputs.cache
+/Users/ahmeterenkaplan/RiderProjects/linklists/linklists/obj/Debug/net8.0/linklists.dll
+/Users/ahmeterenkaplan/RiderProjects/linklists/linklists/obj/Debug/net8.0/refint/linklists.dll
+/Users/ahmeterenkaplan/RiderProjects/linklists/linklists/obj/Debug/net8.0/linklists.pdb
+/Users/ahmeterenkaplan/RiderProjects/linklists/linklists/obj/Debug/net8.0/linklists.genruntimeconfig.cache
+/Users/ahmeterenkaplan/RiderProjects/linklists/linklists/obj/Debug/net8.0/ref/linklists.dll

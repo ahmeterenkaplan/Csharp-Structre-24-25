@@ -1,0 +1,14 @@
+/Users/ahmeterenkaplan/RiderProjects/stack/stack/obj/Debug/net8.0/stack.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmeterenkaplan/RiderProjects/stack/stack/obj/Debug/net8.0/stack.AssemblyInfoInputs.cache
+/Users/ahmeterenkaplan/RiderProjects/stack/stack/obj/Debug/net8.0/stack.AssemblyInfo.cs
+/Users/ahmeterenkaplan/RiderProjects/stack/stack/obj/Debug/net8.0/stack.csproj.CoreCompileInputs.cache
+/Users/ahmeterenkaplan/RiderProjects/stack/stack/bin/Debug/net8.0/stack
+/Users/ahmeterenkaplan/RiderProjects/stack/stack/bin/Debug/net8.0/stack.deps.json
+/Users/ahmeterenkaplan/RiderProjects/stack/stack/bin/Debug/net8.0/stack.runtimeconfig.json
+/Users/ahmeterenkaplan/RiderProjects/stack/stack/bin/Debug/net8.0/stack.dll
+/Users/ahmeterenkaplan/RiderProjects/stack/stack/bin/Debug/net8.0/stack.pdb
+/Users/ahmeterenkaplan/RiderProjects/stack/stack/obj/Debug/net8.0/stack.dll
+/Users/ahmeterenkaplan/RiderProjects/stack/stack/obj/Debug/net8.0/refint/stack.dll
+/Users/ahmeterenkaplan/RiderProjects/stack/stack/obj/Debug/net8.0/stack.pdb
+/Users/ahmeterenkaplan/RiderProjects/stack/stack/obj/Debug/net8.0/stack.genruntimeconfig.cache
+/Users/ahmeterenkaplan/RiderProjects/stack/stack/obj/Debug/net8.0/ref/stack.dll

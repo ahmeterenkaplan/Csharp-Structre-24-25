@@ -1,0 +1,14 @@
+/Users/ahmeterenkaplan/RiderProjects/recursive/recursive/obj/Debug/net8.0/recursive.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmeterenkaplan/RiderProjects/recursive/recursive/obj/Debug/net8.0/recursive.AssemblyInfoInputs.cache
+/Users/ahmeterenkaplan/RiderProjects/recursive/recursive/obj/Debug/net8.0/recursive.AssemblyInfo.cs
+/Users/ahmeterenkaplan/RiderProjects/recursive/recursive/obj/Debug/net8.0/recursive.csproj.CoreCompileInputs.cache
+/Users/ahmeterenkaplan/RiderProjects/recursive/recursive/bin/Debug/net8.0/recursive
+/Users/ahmeterenkaplan/RiderProjects/recursive/recursive/bin/Debug/net8.0/recursive.deps.json
+/Users/ahmeterenkaplan/RiderProjects/recursive/recursive/bin/Debug/net8.0/recursive.runtimeconfig.json
+/Users/ahmeterenkaplan/RiderProjects/recursive/recursive/bin/Debug/net8.0/recursive.dll
+/Users/ahmeterenkaplan/RiderProjects/recursive/recursive/bin/Debug/net8.0/recursive.pdb
+/Users/ahmeterenkaplan/RiderProjects/recursive/recursive/obj/Debug/net8.0/recursive.dll
+/Users/ahmeterenkaplan/RiderProjects/recursive/recursive/obj/Debug/net8.0/refint/recursive.dll
+/Users/ahmeterenkaplan/RiderProjects/recursive/recursive/obj/Debug/net8.0/recursive.pdb
+/Users/ahmeterenkaplan/RiderProjects/recursive/recursive/obj/Debug/net8.0/recursive.genruntimeconfig.cache
+/Users/ahmeterenkaplan/RiderProjects/recursive/recursive/obj/Debug/net8.0/ref/recursive.dll

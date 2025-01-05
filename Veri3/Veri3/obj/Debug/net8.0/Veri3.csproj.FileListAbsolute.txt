@@ -1,0 +1,14 @@
+/Users/ahmeterenkaplan/RiderProjects/Veri3/Veri3/bin/Debug/net8.0/Veri3
+/Users/ahmeterenkaplan/RiderProjects/Veri3/Veri3/bin/Debug/net8.0/Veri3.deps.json
+/Users/ahmeterenkaplan/RiderProjects/Veri3/Veri3/bin/Debug/net8.0/Veri3.runtimeconfig.json
+/Users/ahmeterenkaplan/RiderProjects/Veri3/Veri3/bin/Debug/net8.0/Veri3.dll
+/Users/ahmeterenkaplan/RiderProjects/Veri3/Veri3/bin/Debug/net8.0/Veri3.pdb
+/Users/ahmeterenkaplan/RiderProjects/Veri3/Veri3/obj/Debug/net8.0/Veri3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmeterenkaplan/RiderProjects/Veri3/Veri3/obj/Debug/net8.0/Veri3.AssemblyInfoInputs.cache
+/Users/ahmeterenkaplan/RiderProjects/Veri3/Veri3/obj/Debug/net8.0/Veri3.AssemblyInfo.cs
+/Users/ahmeterenkaplan/RiderProjects/Veri3/Veri3/obj/Debug/net8.0/Veri3.csproj.CoreCompileInputs.cache
+/Users/ahmeterenkaplan/RiderProjects/Veri3/Veri3/obj/Debug/net8.0/Veri3.dll
+/Users/ahmeterenkaplan/RiderProjects/Veri3/Veri3/obj/Debug/net8.0/refint/Veri3.dll
+/Users/ahmeterenkaplan/RiderProjects/Veri3/Veri3/obj/Debug/net8.0/Veri3.pdb
+/Users/ahmeterenkaplan/RiderProjects/Veri3/Veri3/obj/Debug/net8.0/Veri3.genruntimeconfig.cache
+/Users/ahmeterenkaplan/RiderProjects/Veri3/Veri3/obj/Debug/net8.0/ref/Veri3.dll

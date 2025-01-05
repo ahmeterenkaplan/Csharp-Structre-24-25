@@ -1,0 +1,14 @@
+/Users/ahmeterenkaplan/RiderProjects/veriCıkmısSorular/veriCıkmısSorular/bin/Debug/net8.0/veriCıkmısSorular
+/Users/ahmeterenkaplan/RiderProjects/veriCıkmısSorular/veriCıkmısSorular/bin/Debug/net8.0/veriCıkmısSorular.deps.json
+/Users/ahmeterenkaplan/RiderProjects/veriCıkmısSorular/veriCıkmısSorular/bin/Debug/net8.0/veriCıkmısSorular.runtimeconfig.json
+/Users/ahmeterenkaplan/RiderProjects/veriCıkmısSorular/veriCıkmısSorular/bin/Debug/net8.0/veriCıkmısSorular.dll
+/Users/ahmeterenkaplan/RiderProjects/veriCıkmısSorular/veriCıkmısSorular/bin/Debug/net8.0/veriCıkmısSorular.pdb
+/Users/ahmeterenkaplan/RiderProjects/veriCıkmısSorular/veriCıkmısSorular/obj/Debug/net8.0/veriCıkmısSorular.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmeterenkaplan/RiderProjects/veriCıkmısSorular/veriCıkmısSorular/obj/Debug/net8.0/veriCıkmısSorular.AssemblyInfoInputs.cache
+/Users/ahmeterenkaplan/RiderProjects/veriCıkmısSorular/veriCıkmısSorular/obj/Debug/net8.0/veriCıkmısSorular.AssemblyInfo.cs
+/Users/ahmeterenkaplan/RiderProjects/veriCıkmısSorular/veriCıkmısSorular/obj/Debug/net8.0/veriCıkmısSorular.csproj.CoreCompileInputs.cache
+/Users/ahmeterenkaplan/RiderProjects/veriCıkmısSorular/veriCıkmısSorular/obj/Debug/net8.0/veriCıkmısSorular.dll
+/Users/ahmeterenkaplan/RiderProjects/veriCıkmısSorular/veriCıkmısSorular/obj/Debug/net8.0/refint/veriCıkmısSorular.dll
+/Users/ahmeterenkaplan/RiderProjects/veriCıkmısSorular/veriCıkmısSorular/obj/Debug/net8.0/veriCıkmısSorular.pdb
+/Users/ahmeterenkaplan/RiderProjects/veriCıkmısSorular/veriCıkmısSorular/obj/Debug/net8.0/veriCıkmısSorular.genruntimeconfig.cache
+/Users/ahmeterenkaplan/RiderProjects/veriCıkmısSorular/veriCıkmısSorular/obj/Debug/net8.0/ref/veriCıkmısSorular.dll

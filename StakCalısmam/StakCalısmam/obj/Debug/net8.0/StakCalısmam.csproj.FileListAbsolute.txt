@@ -1,0 +1,14 @@
+/Users/ahmeterenkaplan/RiderProjects/StakCalısmam/StakCalısmam/bin/Debug/net8.0/StakCalısmam
+/Users/ahmeterenkaplan/RiderProjects/StakCalısmam/StakCalısmam/bin/Debug/net8.0/StakCalısmam.deps.json
+/Users/ahmeterenkaplan/RiderProjects/StakCalısmam/StakCalısmam/bin/Debug/net8.0/StakCalısmam.runtimeconfig.json
+/Users/ahmeterenkaplan/RiderProjects/StakCalısmam/StakCalısmam/bin/Debug/net8.0/StakCalısmam.dll
+/Users/ahmeterenkaplan/RiderProjects/StakCalısmam/StakCalısmam/bin/Debug/net8.0/StakCalısmam.pdb
+/Users/ahmeterenkaplan/RiderProjects/StakCalısmam/StakCalısmam/obj/Debug/net8.0/StakCalısmam.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmeterenkaplan/RiderProjects/StakCalısmam/StakCalısmam/obj/Debug/net8.0/StakCalısmam.AssemblyInfoInputs.cache
+/Users/ahmeterenkaplan/RiderProjects/StakCalısmam/StakCalısmam/obj/Debug/net8.0/StakCalısmam.AssemblyInfo.cs
+/Users/ahmeterenkaplan/RiderProjects/StakCalısmam/StakCalısmam/obj/Debug/net8.0/StakCalısmam.csproj.CoreCompileInputs.cache
+/Users/ahmeterenkaplan/RiderProjects/StakCalısmam/StakCalısmam/obj/Debug/net8.0/StakCalısmam.dll
+/Users/ahmeterenkaplan/RiderProjects/StakCalısmam/StakCalısmam/obj/Debug/net8.0/refint/StakCalısmam.dll
+/Users/ahmeterenkaplan/RiderProjects/StakCalısmam/StakCalısmam/obj/Debug/net8.0/StakCalısmam.pdb
+/Users/ahmeterenkaplan/RiderProjects/StakCalısmam/StakCalısmam/obj/Debug/net8.0/StakCalısmam.genruntimeconfig.cache
+/Users/ahmeterenkaplan/RiderProjects/StakCalısmam/StakCalısmam/obj/Debug/net8.0/ref/StakCalısmam.dll
